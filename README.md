@@ -1,2 +1,2 @@
-# personal-site
-My personal site
+# My-Site
+HR Professional Profile
